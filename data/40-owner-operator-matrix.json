@@ -1,0 +1,776 @@
+{
+ "brightenlystore.com": {
+  "owner": [
+   "684d4931ba66920009586543"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "68ffb2f7d850790009d01a73"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "trendbrightstore.com": {
+  "owner": [
+   "6807c147656ff7000979375f"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "68f8c0458126a900096cc3b5"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "melozishop.com": {
+  "owner": [
+   "686642a0e929510009122d44"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "6911bb87b08705000aef21b2"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "zebinshop.com": {
+  "owner": [
+   "6a83082fa9632b0008b6ad83"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "6a83082fd8118800097d6a1c"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "prynikastore.com": {
+  "owner": [
+   "68f759380f003f000987ba15"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "68f7593866c08400096b4477"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "hunivastore.com": {
+  "owner": [
+   "6871316cd4e3780008c6ed61"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "68f7f9f6ad58790009277760"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "lusishop.com": {
+  "owner": [
+   "68e34cb64a9d5400091914ba"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "DIAMOND"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "68e34cb631220c0009562a4a"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "iveronshopus.com": {
+  "owner": [
+   "6882fb5d196b6300091d69a3"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "69b4f34af908a200095c28de"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "activehealthshopus.com": {
+  "owner": [
+   "67fdfdbb656ff70009792872"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "69325ff5ffdf7d000a41089d"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "mavon-usa.com": {
+  "owner": [
+   "68216f12656ff70009795d49"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "69037cd0eb499c00093532bd"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "zoticgear.com": {
+  "owner": [
+   "694918076a7c1d00098de79e"
+  ],
+  "system": [
+   "premex"
+  ],
+  "sub": [],
+  "storeId": [
+   "693d0eeca9a75d0008c76e7c",
+   "6949180796feed00097333e3"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "wonbstore.com": {
+  "owner": [
+   "68f1f1882a1ea10009443b7b"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "68f1f188f54b8d0009566ca8"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "tynnia.com": {
+  "owner": [
+   "68a3f15834223f0009bd6fdd"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "68f90b3afc52270009a88035"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "ballhight.com": {
+  "owner": [
+   "6a0209fa4caad9000affb9ce"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "6a0209fa615aaf000a0255ec"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "velo-usa.com": {
+  "owner": [
+   "68216f12656ff70009795d49"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "68fb67ba5e9bf40009c1af8a"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "faashionn.com": {
+  "owner": [
+   "68de501d0f6f390009dc564f"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "6a5266991c3dab000af09625"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "ratitstore.com": {
+  "owner": [
+   "68d4c115a014660009950c34"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "68f70c1e5c772a00095efe1c"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "bailiwstore.com": {
+  "owner": [
+   "68df7729de926e000936a718"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "DIAMOND"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "6910407576d543000a2dec4a"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "nuvazastore.com": {
+  "owner": [
+   "684d4931ba66920009586543"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "68f7e0ae66c5f10009eb0606"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "remoteflytoys.com": {
+  "owner": [
+   "691ac94b78db370008035b1d"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "694515e596e79f0009e9dd73"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "usefullystore.com": null,
+ "roeiba.com": null,
+ "winoti.com": {
+  "owner": [
+   "68ed417a63b01a000909bebb"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "68f8530ace6b87000842dd32"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "shopexponow.com": {
+  "owner": [
+   "68cc1112e863450009dce3ae"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "68fcf96a621d50000aa713fe"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "techsparqus.com": {
+  "owner": [
+   "694918076a7c1d00098de79e"
+  ],
+  "system": [
+   "premex"
+  ],
+  "sub": [],
+  "storeId": [
+   "693d0eeca9a75d0008c76e7c",
+   "696f4fe6b711480008d2a91f"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "savefueltech.com": {
+  "owner": [
+   "68822c0bea475b000958f78a"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "69fa129d8df75c00083c1855"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "urbanstepusa.com": {
+  "owner": [
+   "6882fb5d196b6300091d69a3"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "698c0afb8864dd0008aea2e1"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "trendingzon.com": {
+  "owner": [
+   "6946bd730998e100097752e0"
+  ],
+  "system": [
+   "dcomcy"
+  ],
+  "sub": [
+   "STANDARD"
+  ],
+  "storeId": [
+   "689d97627b621900094d0806",
+   "6946bd74b3987c0009de00c8"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "farley-usa.com": {
+  "owner": [
+   "68216f12656ff70009795d49"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "6a059bc04f885b0009ee525a"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "dopapistore.com": null,
+ "movarynshop.com": {
+  "owner": [
+   "6900809bacfb8b0009021953"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "695b76bad023bf0008ce10a1"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "freshgreenshopus.com": {
+  "owner": [
+   "699b0c62f60cf6000a43c3a8"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "699b0c624788c700087e1a14"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ },
+ "funikaishop.com": {
+  "owner": [
+   "682d88b1ba66920009584651"
+  ],
+  "system": [
+   "droptitan"
+  ],
+  "sub": [
+   "Platinum"
+  ],
+  "storeId": [
+   "67fa158590242800095cdf9a",
+   "68fc83460c8cad0009408629"
+  ],
+  "gatewayIds": [
+   "67343810b2ecc0dc10aac9e4",
+   "67343811b2ecc0dc10aac9fc",
+   "67343812b2ecc0dc10aaca10",
+   "67343812b2ecc0dc10aaca1b",
+   "677b9428e055a0976266226c",
+   "68d8f87b288e350009125871",
+   "69fd468dba273a00098ad451",
+   "6a18fc9679c137000967cabc",
+   "6ab4e95bf5e964000aa5f334"
+  ]
+ }
+}
