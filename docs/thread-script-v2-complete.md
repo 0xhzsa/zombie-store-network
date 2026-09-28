@@ -490,4 +490,4 @@ App Store lookup proof (returns JSON, citable): https://itunes.apple.com/lookup?
 ## TODO BEFORE POSTING
 - [ ] VIDEO LINK — user confirmed the YouTube ad/video/channel link is INSIDE the BHW thread (OP post). Direct fetch is Cloudflare-403, so grab it from a logged-in browser and paste into T2. The thread OP also notes "they ripped the initial YouTube ad from a legitimate biz" — worth quoting.
 - [ ] CAPTURE every screenshot in the checklist order above
-- [ ] Post T1..T39+T5b+T23b+T32b in order (42 bodies), mind the 280-char limit per tweet (verified in this repo). v3 (docs/thread-script-v3-compact.md) compacts these into T1..T34 with zero fact/link/screenshot loss.
+- [ ] Post T1..T39+T5b+T23b+T32b in order (42 bodies), mind the 280-char limit per tweet (verified in this repo). v3 (docs/thread-script-v3-compact.md) compacts these into T1..T34 + T24b + T26b + T31b (37 bodies) with zero fact/link/screenshot loss; the 3 additions are the fleet-churn, Vietnam-trail, and one-kill-shot beats.

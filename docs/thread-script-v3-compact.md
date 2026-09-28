@@ -257,6 +257,15 @@ The unkillable asset: the same Meta pixel (1657324268639685) across 6 stores. Ki
 
 # SHOW: urbanstepusa googleAdsConversionIds (144 IDs) then the SAME fbq pixel ID visible in 6 store sources (2–3 stacked frames).
 
+**T24b**
+They don't build brands. They churn them.
+
+11 months, 17 waves. Fresh clones ship the placeholder pixel 0000000000000000; wired ones burn in ONE shared pixel — 1657324268639685. dopapistore is dead (502); its DNS still resolves.
+
+Born. Wired. Burned. Reborn under a new mask.
+
+# SHOW: zebinshop + tynnia showing placeholder pixel "0000000000000000" vs mavon-usa showing shared fbq 1657324268639685, one frame each.
+
 **T25**
 The engine is a real product family:
 
@@ -281,6 +290,15 @@ The rotation is public.
 # SHOW: Bearhubs App Store page (dev: Nguyen Trung Kien) + itunes lookup JSON showing releaseNotes "Change domain api".
 # LINK: https://apps.apple.com/app/bearhubs/id6747337935
 # LINK: https://itunes.apple.com/lookup?id=6747337935
+
+**T26b**
+Anonymous storefronts. Public operators.
+
+Apple dev accounts named "tran hoang Hoang Hiep" + "Nguyen Trung Kien" ship Hmaxx V2, Drix Win, Bearhubs. Registered trail: TRYDROPHUB PTE. LTD., BettaMax PTE. LTD., UEN 202519745Z.
+
+Payout: PingPong → Vietnamese banks. That's the tell.
+
+# SHOW: coord "the tell" — App Store dev names page + ACRA filing + BettaMax PingPong payout doc in one grid; the point: obfuscated front, public back.
 
 **T27**
 The money twin: BettaMax. Sky Global JSC (Hanoi) + BETTAMAX PTE. LTD., Singapore, UEN 202519745Z, reg 2025-05-07.
@@ -338,6 +356,15 @@ The one number I can't see: orders/day. Every input is in the repo. Multiply.
 
 # SHOW: your own model table (orders/day × AOV = gross) built from the T14 ledger.
 # LINK: https://github.com/0xhzsa/zombie-store-network
+
+**T31b**
+The machine's weakness is its spine.
+
+91 domains, 477 ad accounts, 9 merchant accounts — all hanging on ONE payment bus ("latte"), ONE Thermopolis address, ONE AWS endpoint, ONE shared pixel.
+
+You don't report 91 stores. Kill the spine and the fleet keels over with one action.
+
+# SHOW: the 9-gateway array + the shared AWS endpoint + the shared pixel in one frame, labeled "the spine".
 
 ---
 
@@ -406,6 +433,9 @@ I only looked. Somebody with a reason should look harder.
 31. admin.droptitan.io + endpoint grep (T29/T34)
 32. crt.sh storedfilezone CDN churn (7 fronts) (T30)
 33. Your revenue model table (T31)
+34. Placeholder pixel "0000000000000000" on zebinshop + tynnia vs shared fbq on mavon-usa (T24b)
+35. "The spine" frame: 9-gateway array + AWS endpoint + shared pixel, labeled (T31b)
+36. T26b grid: App Store dev names (Hoang Hiep / Trung Kien) + ACRA filing + BettaMax PingPong payout doc
 
 ## MASTER LINK SET
 Source thread: https://www.blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
@@ -425,4 +455,4 @@ App Store lookup proof (returns JSON, citable): https://itunes.apple.com/lookup?
 - [ ] VIDEO LINK — user confirmed the YouTube ad/video/channel link is INSIDE the BHW thread (OP post). Direct fetch is Cloudflare-403, so grab it from a logged-in browser and paste into T2. Quote AlgoScale: "they ripped the initial YouTube ad from a legitimate biz."
 - [ ] Add official report-form links for T32 (Meta / Google Ads / Apple / Stripe / PayPal / Adyen / Square / Airwallex / Payoneer / DiandianPay / AlphaX) — obtain from each processor's help center, do not guess.
 - [ ] CAPTURE every screenshot in the checklist order above (items 3 and 5 need a logged-in BHW browser)
-- [ ] Re-run node tweet_count_v2.js on this file after ANY edit, then post T1..T34 in order.
+- [ ] Re-run node tweet_count_v2.js on this file after ANY edit, then post T1..T34 + T24b + T26b + T31b in order (37 bodies).
