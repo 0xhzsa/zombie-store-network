@@ -66,6 +66,16 @@ Every ticket from every "shop" lands in one inbox.
 
 # SHOW: footer email rows on 2-3 stores.
 
+**T5b**
+The forum proved it with a credit card:
+
+BassTrackerBoats ordered. Charge ran, item shipped from a Chicago "warehouse" that's a rented house. One operator's socials: Vietnam penthouses, supercars.
+
+The stores sell. The ads don't pay. The machine wins twice.
+
+# SHOW: the thread's order/shipment receipts + the "ripped the initial YouTube ad from a legitimate biz" quote from the thread.
+# NOTE: these receipts come from the BHW thread itself (posts by BassTrackerBoats / AlgoScale).
+
 ---
 
 ## PART 2 — THE FLEET (every store, in birth order)
@@ -428,6 +438,7 @@ Retweet so the person building store #92 knows we're watching. 👁
 ## MASTER SCREENSHOT CHECKLIST (capture order)
 
 1. lusishop.com footer — Mondell address + hotline (T1/T3)
+1b. BHW thread receipts: BassTrackerBoats order/ship + Chicago "warehouse" + Vietnam supercars quote (T5b)
 2. BHW thread OP page (T2) — source: blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
 4. crt.sh lattehub.com, apex-only reissues since 2021 + "© 2021 64Hydro" theme string (T6)
 5. RDAP: lusishop.com (T7)
