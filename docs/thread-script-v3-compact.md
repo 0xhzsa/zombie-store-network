@@ -307,6 +307,18 @@ Their page: "20,000+ sellers trust BettaMax", PayPal ACDC free, payouts to Vietn
 
 # SHOW: bettamax.com + ACRA record for BETTAMAX PTE. LTD. + the Hanoi address on bettamax.com.
 
+**T27b**
+Every tool shipped before the war.
+
+BettaMax app: Aug 2023. Ads checker: Mar 2025. Hmaxx & Droptitan: May. Bearhubs: Jun. SMIT GATE: Jul. Hmaxx V2: Aug. Drix Win: Sep.
+
+First storefront wave: October 2025.
+
+They built the whole machine before they opened a single store.
+
+# SHOW: App Store release-date grid (BettaMax 2023-08-31 → Drix Win 2025-09-09) next to the Oct-25 fleet wave.
+# LINK: https://itunes.apple.com/lookup?id=6460935539 https://itunes.apple.com/lookup?id=6751709185
+
 **T28**
 The zombie tooling is a real VN SaaS niche:
 
@@ -316,6 +328,27 @@ Sold in the App Store. (Marketing numbers.)
 
 # SHOW: smit.vn + SMIT GATE App Store page + AdsCheckSpeed page.
 # LINKS: https://smit.vn https://agency.smit.vn
+
+**T28b**
+Vietnam, in public filings:
+
+SMIT Technology Solutions JSC — reg 0109404057, legal rep Tran Van Tuan — "100,000+ ad accounts managed."
+
+BettaMax = Sky Global JSC (Hanoi) + Singapore holding UEN 202519745Z. Its Apple dev also ships a ride-hailing app.
+
+All public. All reportable.
+
+# SHOW: SMIT business-registration + legal rep + hotline 086 666 6216; BettaMax ACRA + Sky Global JSC; Gos App page (Dan Do Anh).
+# LINKS: https://apps.apple.com/vn/app/gos/id? — gos app (vn.gos.app) under same Apple dev as BettaMax.
+
+**T28c**
+The recipe is sold in the open, verbatim from the thread:
+
+1) Next.js cloner spawns a shell. 2) 10–20 zombie ad accounts per domain. 3) Banned ones rotate; survivors warm. 4) Rip a real ad. 5) Keep the full sale.
+
+Shill fronts (dropprohub.pro, dropthan.com) fake the press logos.
+
+# SHOW: thread post #77/#78 verbatim method + dropprohub.pro / droptrendhub.org fake Bloomberg-CNBC-MarketWatch logo homepages ("Ethan King", "Jake Morgan" testimonials).
 
 ---
 
@@ -436,6 +469,9 @@ I only looked. Somebody with a reason should look harder.
 34. Placeholder pixel "0000000000000000" on zebinshop + tynnia vs shared fbq on mavon-usa (T24b)
 35. "The spine" frame: 9-gateway array + AWS endpoint + shared pixel, labeled (T31b)
 36. T26b grid: App Store dev names (Hoang Hiep / Trung Kien) + ACRA filing + BettaMax PingPong payout doc
+37. App Store release-date grid: BettaMax 2023-08-31 → Drix Win 2025-09-09, next to the Oct-25 fleet wave (T27b)
+38. SMIT business registration + legal rep + hotline; BettaMax ACRA + Sky Global; Gos App (Dan Do Anh) (T28b)
+39. Thread post #77/#78 verbatim method + dropprohub.pro / droptrendhub.org fake press-logo homepages (T28c)
 
 ## MASTER LINK SET
 Source thread: https://www.blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
@@ -455,4 +491,4 @@ App Store lookup proof (returns JSON, citable): https://itunes.apple.com/lookup?
 - [ ] VIDEO LINK — user confirmed the YouTube ad/video/channel link is INSIDE the BHW thread (OP post). Direct fetch is Cloudflare-403, so grab it from a logged-in browser and paste into T2. Quote AlgoScale: "they ripped the initial YouTube ad from a legitimate biz."
 - [ ] Add official report-form links for T32 (Meta / Google Ads / Apple / Stripe / PayPal / Adyen / Square / Airwallex / Payoneer / DiandianPay / AlphaX) — obtain from each processor's help center, do not guess.
 - [ ] CAPTURE every screenshot in the checklist order above (items 3 and 5 need a logged-in BHW browser)
-- [ ] Re-run node tweet_count_v2.js on this file after ANY edit, then post T1..T34 + T24b + T26b + T31b in order (37 bodies).
+- [ ] Re-run node tweet_count_v2.js on this file after ANY edit, then post T1..T34 + T24b + T26b + T27b + T28b + T28c + T31b in order (40 bodies).
