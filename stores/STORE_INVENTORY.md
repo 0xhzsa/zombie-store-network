@@ -76,6 +76,22 @@ premex    → 693d0eeca9a75d0008c76e7c  (2 stores)
 - every homepage reads `Shopping Online` / `Home page`; footer `©2024 All Rights Reserved`
 - address, always: `511 Mondell St, Thermopolis, WY 82443`
 
+## Apple App Store developer shells (the family graph)
+
+The storefront engines are published as iPhone apps. The App Store "You Might Also Like"
+cross-links on any one page list the whole sibling set — the membership list, public:
+
+- **TRYDROPHUB PTE. LTD.** (Singapore) → Droptitan (id 6746070773), Hmaxx, Vnecomy (id 6757910322), Drixx WinWin (id 6755813374)
+- **tran hoang Hoang Hiep** → Hmaxx V2 (id 6749109695), Drix Win (id 6751709185)
+- **Nguyen Trung Kien** → Bearhubs (id 6747337935, `com.bearhubs.app`, released 2025-06-16, v1.0.4 release note: "Change domain api" — published 2025-10-28, inside the Oct-25 wave)
+- **Dan Do Anh** → BettaMax (id 6460935539, "Dropship Plarform", PingPong payout + PayPal ACDC in its own changelog)
+
+Siblings cross-linked on Drix Win / BettaMax pages: Droptitan, Hmaxx, Hmaxx V2, Vnecomy,
+Drix Win, Drixx WinWin, Dcomcy+, BettaMax, **AZ Global (All in One Store Manager)**,
+**Onepage: Dropship Store**, **USAdrop (Streamlining B2B Procurement)**, AdsCheckSpeed,
+Wukongx Seller, SMIT GATE (+ TrueStore, DropshipX, Xcom.store appear across further pages).
+Full map in `data/70-appstore-publisher-map.json`.
+
 ## Hosting / infra lineage
 
 - Object storage / media: `minio.lattehub.com`, `minio.droptitan.io`

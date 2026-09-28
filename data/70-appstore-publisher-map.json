@@ -2,7 +2,7 @@
  "com.droptitan.app": {
   "name": "Droptitan",
   "dev": "TRYDROPHUB PTE. LTD.",
-  "url": "https://apps.apple.com/us/app/droptitan/id6746070773?uo=4",
+  "url": "https://apps.apple.com/vn/app/droptitan/id6746070773?uo=4",
   "id": 6746070773,
   "seller": "TRYDROPHUB PTE. LTD.",
   "support": "",
@@ -12,11 +12,34 @@
  "com.hmaxx.sellerapp": {
   "name": "Hmaxx V2",
   "dev": "tran hoang Hoang Hiep",
-  "url": "https://apps.apple.com/us/app/hmaxx-v2/id6749109695?uo=4",
+  "url": "https://apps.apple.com/vn/app/hmaxx-v2/id6749109695?uo=4",
   "id": 6749109695,
   "seller": "tran hoang Hoang Hiep",
   "support": "",
   "ratings": 0,
   "avg": 0
+ },
+ "com.bearhubs.app": {
+  "name": "Bearhubs",
+  "dev": "Nguyen Trung Kien",
+  "url": "https://apps.apple.com/vn/app/bearhubs/id6747337935?uo=4",
+  "id": 6747337935,
+  "seller": "Nguyen Trung Kien",
+  "artistId": 1745057075,
+  "support": "",
+  "ratings": 0,
+  "avg": 0,
+  "released": "2025-06-16",
+  "version": "1.0.4",
+  "lastRelease": "2025-10-28",
+  "releaseNotes": "Change domain api",
+  "genres": ["Business", "Shopping"],
+  "crossRefs": ["com.droptitan.app", "com.hmaxx.sellerapp"],
+  "siblingsSeenOnAppStore": [
+   "Droptitan", "Hmaxx", "Hmaxx V2", "Vnecomy", "Drix Win", "Drixx WinWin",
+   "Dcomcy+", "BettaMax", "AZ Global", "Onepage: Dropship Store", "USAdrop",
+   "AdsCheckSpeed", "Wukongx Seller", "SMIT GATE", "TrueStore Dropshipping",
+   "DropshipX Mobile", "Xcom.store"
+  ]
  }
 }

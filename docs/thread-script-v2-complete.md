@@ -27,8 +27,8 @@ The whole machine runs on dropshipper dreams sold in "make money online" videos 
 
 The stores? That dream, industrialized.
 
-# SHOW: the YouTube video that started it (see {{VIDEO_URL}}) + SMIT & BettaMax tutorial pages = the seller-recruitment funnel.
-# LINK: the source thread that started this: blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
+# SHOW: the source thread that started it (OP AlgoScale, Nov 6 2025: "found a very weird ecom method from a sketchy ad on youtube") + SMIT & BettaMax tutorial pages = the seller-recruitment funnel.
+# LINK: blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
 # LINK: https://smit.vn / https://bettamax.com
 
 ---
@@ -330,6 +330,19 @@ Corporate shell up front. Person behind the checkout.
 # SHOW: Hmaxx V2 + Drix Win App Store pages (artistName = tran hoang Hoang Hiep).
 # LINKS: https://apps.apple.com/us/app/hmaxx-v2/id6749109695 https://apps.apple.com/us/app/drix-win/id6751709185
 
+**T32b**
+Third Apple developer account, same platform:
+
+Nguyen Trung Kien → Bearhubs (id 6747337935), out since 2025-06-16.
+
+Its latest update, verbatim: "Change domain api."
+
+The rotation is public.
+
+# SHOW: Bearhubs App Store page (dev: Nguyen Trung Kien) + itunes lookup JSON showing releaseNotes: "Change domain api".
+# LINK: https://apps.apple.com/app/bearhubs/id6747337935
+# LINK: https://itunes.apple.com/lookup?id=6747337935
+
 **T33** (BettaMax corporate trail)
 The money twin is BettaMax: Sky Global JSC (Hanoi, 10F CMC Building 11 Duy Tan) + BETTAMAX PTE. LTD., UEN 202519745Z, Singapore, reg 2025-05-07.
 
@@ -415,8 +428,7 @@ Retweet so the person building store #92 knows we're watching. 👁
 ## MASTER SCREENSHOT CHECKLIST (capture order)
 
 1. lusishop.com footer — Mondell address + hotline (T1/T3)
-2. The YouTube video that started it (T2) — {{VIDEO_URL}}
-3. BHW thread OP page (T2) — source: blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
+2. BHW thread OP page (T2) — source: blackhatworld.com/seo/found-a-very-weird-ecom-method-from-a-sketchy-ad-on-youtube-some-help.1770124
 4. crt.sh lattehub.com, apex-only reissues since 2021 + "© 2021 64Hydro" theme string (T6)
 5. RDAP: lusishop.com (T7)
 6. RDAP: roeiba.com + /about-us → shared support desk (T8)
@@ -444,6 +456,7 @@ Retweet so the person building store #92 knows we're watching. 👁
 28. Shared Meta pixel ID on 2+ stores (T30)
 29. Apple: Droptitan page (TRYDROPHUB PTE. LTD.) (T31)
 30. Apple: Hmaxx V2 + Drix Win (tran hoang Hoang Hiep) (T32)
+30b. Apple: Bearhubs (Nguyen Trung Kien) + itunes lookup releaseNotes "Change domain api" (T32b)
 31. bettamax.com + ACRA BETTAMAX PTE. LTD. UEN 202519745Z (T33)
 32. smit.vn + SMIT GATE + AdsCheckSpeed App Store pages (T34)
 33. admin.droptitan.io + endpoint grep (T35)
@@ -458,11 +471,12 @@ https://admin.droptitan.io
 https://apps.apple.com/us/app/droptitan/id6746070773
 https://apps.apple.com/us/app/hmaxx-v2/id6749109695
 https://apps.apple.com/us/app/drix-win/id6751709185
+https://apps.apple.com/app/bearhubs/id6747337935
 https://crt.sh/?q=%25.storedfilezone.com · https://crt.sh/?q=%25.lattehub.com
 https://smit.vn · https://agency.smit.vn · https://bettamax.com · https://alphax.asia · https://docs.alphax.asia/payments/sdk.md
 App Store lookup proof (returns JSON, citable): https://itunes.apple.com/lookup?id=6746070773
 
 ## TODO BEFORE POSTING
-- [ ] {{VIDEO_URL}} — user to supply the exact operator YouTube ad/video URL
+- [ ] VIDEO LINK — user confirmed the YouTube ad/video/channel link is INSIDE the BHW thread (OP post). Direct fetch is Cloudflare-403, so grab it from a logged-in browser and paste into T2. The thread OP also notes "they ripped the initial YouTube ad from a legitimate biz" — worth quoting.
 - [ ] CAPTURE every screenshot in the checklist order above
-- [ ] Post T1..T39 in order, mind the 280-char limit per tweet (verified in this repo)
+- [ ] Post T1..T39+T23b+T32b in order, mind the 280-char limit per tweet (verified in this repo)
